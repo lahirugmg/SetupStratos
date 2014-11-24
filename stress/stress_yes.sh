@@ -5,3 +5,4 @@
 		yes > /dev/null & 
         done
         
+#To stop this load, use "killall yes"
